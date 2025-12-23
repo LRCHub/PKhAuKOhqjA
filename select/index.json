@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "幻想",
+  "base_artist": "柚凪。",
+  "createdAt": "2025-12-23T12:09:51.994516Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幻想",
+      "artist": "張學友",
+      "has_synced": true,
+      "path": "select/01_幻想_張學友.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "幻想",
+      "artist": "黄霄雲",
+      "has_synced": true,
+      "path": "select/02_幻想_黄霄雲.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "幻想",
+      "artist": "赖美云",
+      "has_synced": true,
+      "path": "select/03_幻想_赖美云.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "幻想",
+      "artist": "黄霄雲 & 赖美云",
+      "has_synced": true,
+      "path": "select/04_幻想_黄霄雲_&_赖美云.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "幻想",
+      "artist": "许景淳",
+      "has_synced": false,
+      "path": "select/05_幻想_许景淳.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "幻想",
+      "artist": "张学友",
+      "has_synced": true,
+      "path": "select/06_幻想_张学友.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "幻想、もしくはそれに等しいもの",
+      "artist": "上条当麻(阿部敦)",
+      "has_synced": false,
+      "path": "select/07_幻想、もしくはそれに等しいもの_上条当麻(阿部敦).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "幻想",
+      "artist": "黄霄雲、赖美云",
+      "has_synced": true,
+      "path": "select/08_幻想_黄霄雲、赖美云.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "幻想",
+      "artist": "萌萌哒天团",
+      "has_synced": false,
+      "path": "select/09_幻想_萌萌哒天团.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "幻想",
+      "artist": "张学友",
+      "has_synced": true,
+      "path": "select/10_幻想_张学友.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "幻想、もしくはそれに等しいもの",
+      "artist": "上条当麻(CV：阿部敦)",
+      "has_synced": false,
+      "path": "select/11_幻想、もしくはそれに等しいもの_上条当麻(CV_阿部敦).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幻想",
+      "artist": "柚凪。",
+      "has_synced": false,
+      "path": "select/pl_01_幻想_柚凪。.txt"
+    }
+  ]
+}
